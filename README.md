@@ -115,8 +115,6 @@ Farmer-Produce-Tracker/
 │   └── market_price.py
 ├── data/                the saved .json files
 ├── tests/
-├── .github/
-│   └── pull_request_template.md
 ├── requirements.txt
 └── README.md
 ```
