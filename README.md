@@ -18,8 +18,6 @@ Farmer-Produce-Tracker/
 │   └── harvest.py
 ├── data/                    # the .json files
 ├── tests/
-├── .github/
-│   └── pull_request_template.md
 ├── .gitignore
 ├── requirements.txt
 └── README.md
